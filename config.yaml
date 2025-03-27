@@ -1,0 +1,8 @@
+email:
+  username: "farai.rato@students.uz.ac.zw"
+  password: "Farairato3210"
+
+twilio:
+  account_sid: "ACe3a870049a5750028a22d4fad3429f17"
+  auth_token: "Cae0aae147896402315e36e423279693"
+  from_number: "+18623147979"
